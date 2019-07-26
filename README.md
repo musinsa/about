@@ -32,7 +32,7 @@ __협업은!__
 
 ## 무신사 개발자는 이런 개발을 합니다.
 __개발 언어는!__  
-* 무신사 back*end 서비스는 php와 java 로 개발 됩니다.
+* 무신사 back-end 서비스는 php와 java 로 개발 됩니다.
   * PHP
   * [java는](java.md) 
 * 무신사 APP
