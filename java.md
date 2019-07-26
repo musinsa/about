@@ -47,7 +47,7 @@ __성향__
 __기술__
 * 커머스 서비스 개발 경험이 있으신 분
 * java 8, Spring Boot, JPA 기반의 서비스 개발 경험이 있으신 분
-* RESTfull API 개발 경험 있으신 분
+* RESTfull API 개발 경험이 있으신 분
 * Elasticsearch 기반 infra 운영과 서비스 개발 경험이 있으신 
 * MSA 개발 환경에 관심이 있으신 분
 * Vue.js, React.js 등 UI 프레임웍에 대한 관심이 많으신 분
