@@ -34,7 +34,7 @@ __협업은!__
 __개발 언어는!__  
 * 무신사 back*end 서비스는 php와 java 로 개발 됩니다.
   * PHP
-  * [java는](https://github.com/musinsa/java/blob/master/README.md) 
+  * [java는](java.md) 
 * 무신사 APP
   * Android
   * IOS
