@@ -1,8 +1,8 @@
 ## 무신사 개발자는 이런 환경에서 일합니다.
 __모니터는!__
 * 32인치 커브드 와이드 모니터를 사용합니다. 현재는 LG전자 34UC98 입니다.
-  * [어떤 모델인가? * LG전자](https://www.lge.co.kr/lgekor/product/pc/monitor/productDetail.do?catId=2460&prdId=EPRD.298909)
-  * [어떤 모델인가? * 네이버](https://search.shopping.naver.com/detail/detail.nhn?nv_mid=9284225801)
+  * [어떤 모델인가? - LG전자](https://www.lge.co.kr/lgekor/product/pc/monitor/productDetail.do?catId=2460&prdId=EPRD.298909)
+  * [어떤 모델인가? - 네이버](https://search.shopping.naver.com/detail/detail.nhn?nv_mid=9284225801)
   
 __노트북은!__
 * MacBook Pro 혹은 LG gram 으로 개발합니다.
@@ -32,9 +32,9 @@ __협업은!__
 
 ## 무신사 개발자는 이런 개발을 합니다.
 __개발 언어는!__  
-* 무신사 back-end 서비스는 php와 java 로 개발 됩니다.
+* 무신사 웹 서비스는 php와 java 로 개발 됩니다.
   * PHP
-  * [java는](java.md) 
+  * [java](java.md) 
 * [무신사 APP](app.md)
   * Android
   * iOS
