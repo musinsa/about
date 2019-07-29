@@ -35,9 +35,9 @@ __개발 언어는!__
 * 무신사 back-end 서비스는 php와 java 로 개발 됩니다.
   * PHP
   * [java는](java.md) 
-* 무신사 APP
+* 무신사 [APP](app.md)
   * Android
-  * IOS
+  * iOS
  
 __시스템 인프라는!__  
 * 개발 서버는 AWS를 사용합니다.
