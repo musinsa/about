@@ -24,10 +24,10 @@
 ### java 개발의 미션은 이렇습니다.
 * 무신사 서비스의 AWS 전환을 지원합니다.
 * 신규 핵심 서비스를 java / Spring Boot 로 구현합니다.
-* 회원 서비스를 java / Spring Boot 로 전환합니다.
+* 회원 등 기존 서비스를java / Spring Boot 로 전환합니다.
 * 메시지 서비스를 지속 개선합니다.
 * Elasticsearh 기반의 검색 Infra와 검색 서비스를 지속 개선합니다.
-* java 서비스는 Web 과 API 플랫폼으로 분리 개발 합니다.
+* java 서비스는 Web 과 MAS 전환을 위한 API 플랫폼으로 분리 개발 합니다.
 <br/>
 
 ### 이런 분들과 함께하고 싶습니다.
