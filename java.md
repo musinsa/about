@@ -21,11 +21,11 @@
   * > NMP (New Musinsa Platform)는 java와 AWS 기반의 서비스 플랫폼 입니다
 <br/>
 
-### java 개발의 2019년 미션은 이렇습니다.
+### java 개발의 미션은 이렇습니다.
 * 무신사 서비스의 AWS 전환을 지원합니다.
 * 신규 핵심 서비스를 java / Spring Boot 로 구현합니다.
 * 회원 서비스를 java / Spring Boot 로 전환합니다.
-* 메세지 서비스를 지속 개선합니다.
+* 메시지 서비스를 지속 개선합니다.
 * Elasticsearh 기반의 검색 Infra와 검색 서비스를 지속 개선합니다.
 * java 서비스는 Web 과 API 플랫폼으로 분리 개발 합니다.
 <br/>
@@ -44,11 +44,11 @@ __성향__
 * 기억보다는 기록을 좋아하시는 분
 <br/>
 
-__기술__
+__기술과 경험__
 * 커머스 서비스 개발 경험이 있으신 분
 * java 8, Spring Boot, JPA 기반의 서비스 개발 경험이 있으신 분
 * RESTfull API 개발 경험이 있으신 분
-* Elasticsearch 기반 infra 운영과 서비스 개발 경험이 있으신 
+* Elasticsearch 기반 infra 운영과 서비스 개발 경험이 있으신 분
 * MSA 개발 환경에 관심이 있으신 분
 * Vue.js, React.js 등 UI 프레임웍에 대한 관심이 많으신 분
 * Git, Intellij 개발 환경에 익숙 하신 분
