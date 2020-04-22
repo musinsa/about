@@ -7,17 +7,16 @@
 ### java 개발의 미션은 이렇습니다.
 * 무신사 서비스의 AWS 전환을 지원합니다.
 * 신규 핵심 서비스를 java / Spring Boot 로 구현합니다.
-* 회원 등 기존 서비스를java / Spring Boot 로 전환합니다.
-* 메시지 서비스를 지속 개선합니다.
+* 기존 서비스를 java / Spring Boot 로 전환합니다.
 * Elasticsearh 기반의 검색 Infra와 검색 서비스를 지속 개선합니다.
-* java 서비스는 Web 과 MSA 전환을 위한 API 플랫폼으로 분리 개발 합니다.
+* Java 서비스는 Web 과 MSA 전환을 위한 API 플랫폼으로 분리 개발 합니다.
 <br/>
 
 ### 개발과 서비스 환경은 이렇습니다.
-* Java 8 
-* Spring Boot 2.1.5
+* Java 8+ 
+* Spring Boot 2.x
 * JPA
-* MySQL
+* Aurora MySQL
 <br/>
 
 ### 시스템 인프라는 이렇습니다.
@@ -30,10 +29,13 @@
 <br/>
 
 ### 이런 분들과 함께하고 싶습니다.
-* Java 개발 경험 2년 이상이신 분
+* Java 개발 경험 5년 이상이신 분
 * Java Spring Framework 경험 있으신 분
 * Git 개발 경험이 있으신 분
 <br/>
+
+### 채용 절차
+* 서류통과 > 코딩테스트 >  1차 면접 > 2차 면접 > 처우협의
 
 ### 이런 분들을 우대합니다.
 __성향__
@@ -45,7 +47,7 @@ __성향__
 
 __기술과 경험__
 * 커머스 서비스 개발 경험이 있으신 분
-* java 8, Spring Boot, JPA 기반의 서비스 개발 경험이 있으신 분
+* java 8+, Spring Boot, JPA 기반의 서비스 개발 경험이 있으신 분
 * RESTfull API 개발 경험이 있으신 분
 * Elasticsearch 기반 infra 운영과 서비스 개발 경험이 있으신 분
 * MSA 개발 환경에 관심이 있으신 분
