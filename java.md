@@ -1,7 +1,7 @@
 ## 무신사의 Java 개발자는 이런 개발을 합니다.
 ### java 개발의 목표는 이렇습니다.
 * 무신사의 비즈니스 확장에 맞춰, 빠르게 서비스를 제공할 수 있는 플랫폼(NMP) 확대를 목표로 합니다.
-  * > NMP (New Musinsa Platform)는 java와 AWS 기반의 서비스 플랫폼 입니다
+  * > NMP (Next Musinsa Platform)는 java와 AWS 기반의 서비스 플랫폼 입니다
 <br/>
 
 ### java 개발의 미션은 이렇습니다.
