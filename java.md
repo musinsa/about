@@ -8,7 +8,7 @@
 * 무신사 서비스의 AWS 전환을 지원합니다.
 * 신규 핵심 서비스를 java / Spring Boot 로 구현합니다.
 * 기존 서비스를 java / Spring Boot 로 전환합니다.
-* Elasticsearh 기반의 검색 Infra와 검색 서비스를 지속 개선합니다.
+* Elasticsearch 기반의 검색 Infra와 검색 서비스를 지속 개선합니다.
 * Java 서비스는 Web 과 MSA 전환을 위한 API 플랫폼으로 분리 개발 합니다.
 <br/>
 
